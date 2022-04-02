@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @motaleonardo
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science & Financial Analysis & Investments
 - 🌱 I’m currently learning Python Fundamentals
 - 💞️ I’m looking to collaborate in solutions that solve companies problems
 - 📫 How to reach me linkedin.com/in/leonardo-v-ruelis-mota
