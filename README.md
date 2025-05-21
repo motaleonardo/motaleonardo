@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @motaleonardo
 - 👀 I’m interested in Data Science & Financial Analysis & Investments
 - 🌱 I’m currently learning Python for Data Analytics
-- 💞️ I’m looking to collaborate in solutions that solve companies problems
+- 👋 I’m looking to collaborate in solutions that solve companies problems
 - 📫 How to reach me linkedin.com/in/leonardo-v-ruelis-mota
 
 <!---
